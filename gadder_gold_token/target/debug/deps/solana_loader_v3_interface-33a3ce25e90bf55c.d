@@ -1,0 +1,9 @@
+/Users/davidbonillajaylen2022/hello/gadder_gold_token/target/debug/deps/libsolana_loader_v3_interface-33a3ce25e90bf55c.rmeta: /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/lib.rs /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/instruction.rs /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/state.rs
+
+/Users/davidbonillajaylen2022/hello/gadder_gold_token/target/debug/deps/libsolana_loader_v3_interface-33a3ce25e90bf55c.rlib: /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/lib.rs /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/instruction.rs /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/state.rs
+
+/Users/davidbonillajaylen2022/hello/gadder_gold_token/target/debug/deps/solana_loader_v3_interface-33a3ce25e90bf55c.d: /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/lib.rs /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/instruction.rs /Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/state.rs
+
+/Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/lib.rs:
+/Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/instruction.rs:
+/Users/davidbonillajaylen2022/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/solana-loader-v3-interface-3.0.0/src/state.rs:
